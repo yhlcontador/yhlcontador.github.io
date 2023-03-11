@@ -483,8 +483,7 @@ a {
 
 
 -------------------------------------------------------------
-
-body {
+ {
     font: 13px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif;
     color: #888888;
     font-weight: 300;
@@ -543,3 +542,5 @@ body {
 .templatemo_contactform .btn-primary:hover {
     background: #a6d82c;
 }
+
+body

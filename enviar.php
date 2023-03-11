@@ -1,4 +1,4 @@
-  <!-- <?php
+<?php
 $name = $_POST['nombre'];
 $mail = $_POST['email'];
 
@@ -18,4 +18,4 @@ $asunto = 'Mensaje de... (yhlcontadores)';
 mail($para, $asunto, utf8_decode($message), $header);
 
 header("Location:contact.html");
-?>-->
+?>

@@ -1,6 +1,6 @@
   <!-- <?php
-$name = $_POST['name'];
-$mail = $_POST['mail'];
+$name = $_POST['nombre'];
+$mail = $_POST['email'];
 
 $header = 'From: ' . $mail . " \r\n";
 $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";

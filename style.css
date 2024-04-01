@@ -6,15 +6,15 @@ body {
 	width:100%;
 	color:#6e6e6e;
 	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
-	background:#f8f8f8 url(main_bg.gif) repeat-x left top;
+	background:#f8f8f8;
+	
+	background:url(header_bg.gif) repeat-x left 554px
 }
 html, .main {
 	padding:0;
 	margin:0;
 }
-.main {
-	background:url(header_bg.gif) repeat-x left 554px;
-}
+
 .clr {
 	clear:both;
 	padding:0;
@@ -35,7 +35,7 @@ p {
 	padding:0 0 8px 0;
 }
 a {
-	color:#58a1b3;
+	color:#3f8495;
 	text-decoration:underline;
 }
 .header, .content, .menu_nav, .fbg, .footer, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
@@ -43,7 +43,7 @@ a {
 	padding:0;
 }
 .header {
-	 background-color: #4e3808;
+	 background-color: #5b8e9e;
 }
 .header_resize {
 	margin:0 auto;

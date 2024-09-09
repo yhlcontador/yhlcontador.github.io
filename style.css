@@ -24,12 +24,6 @@ html, .main {
 	line-height:0;
 }
 
-.coin-slider{
-	 grid-area: content;
-  overflow-y: auto;
-  background-color: #F1222D;
-  position: relative;
-}
 h2 {
 	margin:8px 0;
 	padding:8px 0;

@@ -81,6 +81,7 @@ h1 small {
 .slider {
 	padding:0;
 	background:no-repeat left bottom;
+	overflow: hidden;
 }
 .rss {
 	padding:18px 20px 0 0;
